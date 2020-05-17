@@ -6,7 +6,7 @@ var authConfig = {
     "version" : "1.0.6", // 程序版本
     "theme" : "material", // material  classic 
     "client_id": "244170776856-i1v39va2oib7jqslp6ahl7muckt6clf7.apps.googleusercontent.com",
-    "client_secret": "H-K94MqtBh-VgNsX4qx1Q-bX",
+    "client_secret": "",
     "refresh_token": "1//0dKlue4dcCpUzCgYIARAAGA0SNwF-L9IrpvakUwqDCFldHE7AxD7fkSSi_aeNoQyLMpq-YqYo_Ys5p8gVKrpq6fqdoKTERqshktc", // 授权 token
     "root": "0AJ-F-UnlKkQXUk9PVA" // 根目录ID
 };
